@@ -2,7 +2,7 @@
   "name": "ts-mxgraph",
   "version": "1.0.0",
   "description": "A Tiny Typescript Wrapper for mxgraph",
-  "main": "./index.js",
+  "main": "./index.dev.js",
   "types": "./index.d.ts",
   "devDependencies": {
     "@types/node": "12.12.7",
