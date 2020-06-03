@@ -3839,6 +3839,7 @@ export module mxgraph {
         FONT_BOLD: number;
         FONT_ITALIC: number;
         FONT_UNDERLINE: number;
+        FONT_STRIKETHROUGH: number;
         SHAPE_RECTANGLE: string;
         SHAPE_ELLIPSE: string;
         SHAPE_DOUBLE_ELLIPSE: string;
