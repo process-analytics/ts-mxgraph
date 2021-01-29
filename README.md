@@ -1,5 +1,9 @@
 # A Tiny Typescript Wrapper for mxgraph
 
+**Archived on 2021-01-29**: `ts-mxgraph` was used in [bpmn-visualization](https://github.com/process-analytics/bpmn-visualization-js) until version `0.11.0`,
+it has then been replaced by a more standard solution, see [bpmn-visualization Pull Request #1040](https://github.com/process-analytics/bpmn-visualization-js/pull/1040)
+
+
 ## Overview
 
 A tiny wrapper around [mxgraph](https://github.com/jgraph/mxgraph-js) that
